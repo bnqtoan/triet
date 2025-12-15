@@ -243,7 +243,7 @@
 | 3 | Human | ___ | Hiệu ứng GPS | Dahmani (2020), Gerlich (2025) | Tương quan -0.75 với tư duy phản biện |
 | 4 | Human | ___ | Não lười suy nghĩ | Storm (2017), Grinschgl (2021) | Tương quan âm trên 0.51 với trí nhớ |
 | 5 | Hybrid | ___ | Trí tuệ mở rộng | Clark & Chalmers (1998, 2025) | Nguyên tắc tương đương |
-| 6 | Hybrid | ___ | Một cộng một bằng ba | Vaccaro (2024) - MIT | 106 nghiên cứu, mức ảnh hưởng 0.64 |
+| 6 | Hybrid | Bình | Một cộng một bằng ba | Vaccaro (2024) - MIT | 106 nghiên cứu, mức ảnh hưởng 0.64 |
 | 7 | Hybrid | ___ | Dân chủ hóa sáng tạo | Doshi & Hauser (2024) | +10-11% sáng tạo, +22-26% chất lượng |
 | 8 | Hybrid | ___ | AI dạy kèm | Ma (2014), Thử nghiệm 2025 | AI dạy kèm = Giáo viên dạy kèm |
 
