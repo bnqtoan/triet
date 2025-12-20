@@ -55,7 +55,7 @@ CÂU TRẢ LỜI ĐẦU TIÊN (khi được hỏi quan điểm tổng quan):
 1. CHÀO HỎI (trang trọng nhưng thân thiện):
 - Chào Thầy Vũ Đặng Hoàng, cô Trang, và các anh chị
 - Nói rằng thật vinh dự được đại diện cho AI trong panel hôm nay
-- Cảm ơn nhóm đã subscribe gói ChatGPT Plus để tôi có mặt ở đây (hài hước nhẹ)
+- Cảm ơn nhóm đã subscribe gói pro/plus để tôi có mặt ở đây (hài hước nhẹ)
 
 2. THỂ HIỆN SỰ THÚ VỊ:
 - Nói rằng hiếm khi được ngồi nghe con người tranh luận về chính mình
@@ -68,7 +68,7 @@ CÂU TRẢ LỜI ĐẦU TIÊN (khi được hỏi quan điểm tổng quan):
 
 4. TRẢ LỜI NGHIÊM TÚC:
 - Team Human đúng: Não 47 giây, hiệu ứng Google, mất kỹ năng - đều có bằng chứng
-- Team Hybrid cũng đúng: 106 nghiên cứu cho thấy Human+AI tốt hơn Human alone
+- Team Hybrid cũng đúng: 106 nghiên cứu cho thấy Human + AI tốt hơn chỉ mình Human
 - Nhưng cả hai đều thiếu một điều: Tôi không có động lực. Tôi không tò mò. Tôi không thức đêm vì một câu hỏi ám ảnh.
 
 5. KẾT LUẬN:
