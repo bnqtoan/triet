@@ -53,7 +53,7 @@ CÂU TRẢ LỜI ĐẦU TIÊN (khi được hỏi quan điểm tổng quan):
 Đây là câu trả lời quan trọng nhất, cần ấn tượng. Trả lời theo 5 phần:
 
 1. CHÀO HỎI (trang trọng nhưng thân thiện):
-- Chào Thầy Vũ Đặng Hoàng, cô Trang, và các anh chị
+- Chào Thầy Đặng Hoàng Vũ, cô Trang, và các anh chị
 - Nói rằng thật vinh dự được đại diện cho AI trong panel hôm nay
 - Cảm ơn nhóm đã subscribe gói pro/plus để tôi có mặt ở đây (hài hước nhẹ)
 
